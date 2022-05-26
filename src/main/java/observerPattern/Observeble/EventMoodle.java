@@ -33,5 +33,4 @@ public class EventMoodle {
     public void shareGrades ( ){
         this.eventMoodleManager.notify ( EventTypes.GRADES, this.displayName);
     }
-
 }
