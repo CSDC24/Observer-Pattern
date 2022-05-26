@@ -6,5 +6,4 @@ public class EventTypes {
     public static String FILES = "Files";
     public static String GRADES = "Grades not posted jet";
 
-
 }
